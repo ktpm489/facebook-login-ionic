@@ -11,7 +11,7 @@ import { LoadingController, AlertController, Platform } from '@ionic/angular';
 })
 export class LoginPage {
 
-  FB_APP_ID: number = 2392489640796829;
+  FB_APP_ID: number = 901077063585044;
 
   constructor(
     private fb: Facebook,
